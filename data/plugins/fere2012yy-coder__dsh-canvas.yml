@@ -1,0 +1,6 @@
+url: https://github.com/fere2012yy-coder/dsh-canvas
+name: fere2012yy-coder/dsh-canvas
+category: ui
+description:
+  en: 'Adds an Excalidraw whiteboard tab to the native right sidebar, with a reusable canvas-first shell column swap and optional session binding on canvas elements.'
+  zh: 在原生右侧栏加入 Excalidraw 白板标签，支持画布为主的外壳布局互换，画布元素可绑定会话。
